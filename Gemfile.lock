@@ -74,5 +74,4 @@ PLATFORMS
 
 DEPENDENCIES
   rails (= 3.0.9)
-  sqlite3
   sqlite3-ruby
